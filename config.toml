@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "https://EdsonSrv.github.io/"
 languageCode = "en-us"
-title = "Edson Servin M."
+title = "EdsonSrvn"
 theme = "terminal"
 tginate = 5
 
@@ -8,7 +8,7 @@ tginate = 5
   # dir name of your blog content (default is `content/posts`)
   contentTypeName = "posts"
   # ["orange", "blue", "red", "green", "pink"]
-  themeColor = "orange"
+  themeColor = "green"
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 2
   # set theme to full screen width
@@ -21,7 +21,7 @@ tginate = 5
 [languages]
   [languages.en]
     title = "Edson Servin M."
-    subtitle = "Subtitle"
+    subtitle = "My Blog"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
@@ -29,7 +29,7 @@ tginate = 5
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "Terminal"
+      logoText = "Edson Servin Mote"
       logoHomeLink = "/"
 
     [languages.en.menu]
